@@ -1,0 +1,2 @@
+# Python-julia-sets
+Desenha conjuntos de polinômios quadráticos e mapas exponenciais de Julia. Mais especificamente, isso itera a função um número fixo de vezes e, em seguida, plota se o valor absoluto da última iteração é maior do que um limite fixo (denominado "raio de escape"). Para o mapa exponencial, este não é realmente um raio de escape, mas uma maneira conveniente de aproximar o conjunto de Julia com órbitas limitadas.
